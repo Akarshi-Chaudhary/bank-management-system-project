@@ -37,7 +37,34 @@ src/
 
 ## 📸 Screenshots
 
-*(Will add UI screenshots soon)*
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 💰 Deposit
+![Deposit](deposit.png)
+
+### 💸 Withdraw
+![Withdraw](withdraw.png)
+
+### 📊 Balance Enquiry
+![Balance](balanceEnquire.png)
+
+### 🧾 Mini Statement
+![Mini Statement](miniStatement.png)
+
+### 💳 Debit Transaction
+![Debited](Debited.png)
+
+### 🔄 PIN Change
+![PIN Change](pinChange.png)
+
+### 🖥️ Display Screen
+![Display](display.png)
+
+### ✅ Withdraw Success
+![Withdraw Success](withdraw%20success.png)
 
 
 
